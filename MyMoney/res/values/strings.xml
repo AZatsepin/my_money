@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyMoney</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_entries_list">EntriesListActivity</string>
+    <string name="button_main_activity">Enter new data</string>
+    <string name="button_list_activity">Show all</string>
+
+    <string-array name="category">
+        <item>Food</item>
+        <item>Bus/Taxi</item>
+        <item>Entertainment</item>
+        <item>Auto</item>
+        <item>Clothes/Shoes</item>
+    </string-array>
+
+    <string name="income_radio">Income</string>
+    <string name="outcome_radio">Outcome</string>
+    <string name="subitem">SubItem</string>
+    <string name="money_value">Value</string>
+    <string name="long_descr">Description</string>
+    <string name="oper_status">default status</string>
+    <string name="subitem_hint">Enter subItem</string>
+    <string name="money_value_hint">Enter amount of money</string>
+    <string name="descr_hint">Enter description</string>
+    <string name="commit_button">Commit</string>
+    <string name="cleardb_button">Clear DB</string>
+    <string name="see_all_button">See all</string>
+
+</resources>
